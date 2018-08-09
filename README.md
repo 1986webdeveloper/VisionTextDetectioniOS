@@ -118,3 +118,5 @@ func setupCamera() {
         previewView.videoPreviewLayer.videoGravity = .resize
         session.startRunning()
     }
+
+![alt text](http://dev.acquaintsoft.com/textdetection.gif)
